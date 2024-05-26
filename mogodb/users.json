@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "64491f49903624fa08f00dc6"
+  },
+  "email": "admin@gmail.com",
+  "phone": "0909824803",
+  "username": "tranductan",
+  "password": "$2b$10$HAathgnQy3LZkX2c4tJXcuJ55qzhphtpyI.NEfsRMdFvpcla9dsiO",
+  "role": "isAdmin",
+  "status": "actived",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-04-26T12:55:37.978Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-26T12:55:37.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644d3a9328b94618d8d5f67f"
+  },
+  "email": "nhom@gmail.com",
+  "phone": "012345678",
+  "username": "tembao",
+  "password": "$2b$10$y5gxxeU7t0uhUpdGy9Ryo.9Ark9E8RHzPh8kUbYxse1/T9FBvNuNe",
+  "role": "isAdmin",
+  "status": "actived",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-04-29T15:41:07.644Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T15:41:07.644Z"
+  },
+  "__v": 0
+}]
